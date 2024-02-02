@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: my.app.andrey.RandomizedQueueTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.189 s <<< FAILURE! - in my.app.andrey.RandomizedQueueTest
+test1(my.app.andrey.RandomizedQueueTest)  Time elapsed: 0.111 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	StdRandom cannot be resolved
+
+	at my.app.andrey.RandomizedQueueTest.test1(RandomizedQueueTest.java:19)
+
